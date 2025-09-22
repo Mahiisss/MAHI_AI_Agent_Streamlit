@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+sentence-transformers
+faiss-cpu
+numpy
+scikit-learn
+torch
+transformers
