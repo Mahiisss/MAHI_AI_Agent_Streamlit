@@ -34,7 +34,12 @@ It allows users to upload PDFs, extract key fields (Name, Semester, GPA/CGPA, Em
 All dependencies are in `requirements.txt`:  
 
 ## 🚀 Live Demo
+
 You can try the hosted app here: [Document Analyzer Agent](https://mahiaiagentapp-ab8vpui9yj8rn6aj5zkypg.streamlit.app/)
+
+## 📹 Demo Video
+[Click here to watch the Demo](https://drive.google.com/drive/folders/1kYc7x0liYW7t3ReHMpe7MaTP3oznnqaq?usp=drive_link)
+
 
 
 
