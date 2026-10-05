@@ -6,4 +6,4 @@ numpy
 scikit-learn
 torch
 transformers
-requests==2.33.0
+requests==2.34.2
